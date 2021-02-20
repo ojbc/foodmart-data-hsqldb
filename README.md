@@ -1,6 +1,22 @@
 # foodmart-data-hsqldb
 Foodmart data set in hsqldb format
 
+### OJBC Fork
+
+Note that this is a fork of the last version of the hsqldb foodmart database, updated to work with hsqldb 2.5.1.
+
+The fork essentially:
+
+* Updates the pom to break dependency on the `net.hydromatic` parent in Julian's repo and get rid of all his scm/git stuff
+* Updates the hsqldb dependency
+* Updates the .properties and .script files to hsqldb 2.5.1 compatibility
+
+We've left everything else as-is, including the Apache license and notice.
+
+(end OJBC Fork info)
+
+...
+
 This project contains the FoodMart data set as an embedded
 HSQLDB database.
 
