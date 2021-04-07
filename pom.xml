@@ -25,6 +25,21 @@ limitations under the License.
   <name>Foodmart database in hsqldb format</name>
   <packaging>jar</packaging>
 
+	<developers>
+		<developer>
+			<name>OJBC Developers</name>
+			<email>info@ojbc.org</email>
+			<organization>OJBC</organization>
+			<organizationUrl>http://www.ojbc.org/</organizationUrl>
+		</developer>
+	</developers>
+	
+	<scm>
+	  <connection>https://github.com/ojbc/foodmart-data-hsqldb</connection>
+	  <developerConnection>hhttps://github.com/ojbc/foodmart-data-hsqldb.git</developerConnection>
+	  <url>https://github.com/ojbc/foodmart-data-hsqldb</url>
+	</scm>
+
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
