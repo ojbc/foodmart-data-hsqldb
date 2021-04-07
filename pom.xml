@@ -23,6 +23,7 @@ limitations under the License.
   <artifactId>foodmart-data-hsqldb</artifactId>
   <version>1.0.0</version>
   <name>Foodmart database in hsqldb format</name>
+  <description>this is a fork of the last version of the hsqldb foodmart database, updated to work with hsqldb 2.5.1</description>
   <packaging>jar</packaging>
   <url>http://www.ojbc.org/</url>	
 
