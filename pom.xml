@@ -24,6 +24,7 @@ limitations under the License.
   <version>1.0.0</version>
   <name>Foodmart database in hsqldb format</name>
   <packaging>jar</packaging>
+  <url>http://www.ojbc.org/</url>	
 
 	<developers>
 		<developer>
